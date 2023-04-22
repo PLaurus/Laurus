@@ -1,4 +1,4 @@
-package com.lauruscorp.laurus
+package com.lauruscorp.app
 
 import org.junit.Test
 

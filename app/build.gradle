@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.lauruscorp.laurus'
+    namespace 'com.lauruscorp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.lauruscorp.laurus"
+        applicationId "com.lauruscorp.app"
         minSdk 21
         targetSdk 33
         versionCode 1

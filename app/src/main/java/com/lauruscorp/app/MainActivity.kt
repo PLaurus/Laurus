@@ -1,7 +1,8 @@
-package com.lauruscorp.laurus
+package com.lauruscorp.app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.lauruscorp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
