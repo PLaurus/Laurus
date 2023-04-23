@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "LaurusCorp"
 include ':app'
-include ':simple-todo'
